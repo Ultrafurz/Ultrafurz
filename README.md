@@ -1,0 +1,7 @@
+- 👋 Hi, I’m William 
+- 👀 I’m interested in Learning JavaScript 
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on idk
+- 📫 How to reach me kuchenesserrr@gmail.com (if you have any tipps for emproving my skills in javaScript)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i hate football 
